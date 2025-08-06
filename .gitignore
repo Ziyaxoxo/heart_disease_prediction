@@ -1,0 +1,7 @@
+    model.pkl
+    __pycache__/
+    .ipynb_checkpoints/
+    .vscode/
+    *.env
+    .DS_Store # For macOS users, harmless on Windows
+    
