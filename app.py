@@ -49,7 +49,7 @@ with col2_header:
         """,
         unsafe_allow_html=True
     )
-    st.info("💡 Adjust theme in Settings (top right)!") # Hint for theme change
+    st.info("Disclaimer: consult a doctor for accurate advice.") # Hint for theme change
 
 st.markdown("---") # Horizontal line for separation
 
@@ -192,4 +192,3 @@ if st.button("Predict 10-Year CHD Risk", help="Click to get the prediction based
     except Exception as e:
         st.error(f"An error occurred during prediction: {e}")
         st.warning("Please ensure all input fields are correctly filled and the model is trained.")
-
