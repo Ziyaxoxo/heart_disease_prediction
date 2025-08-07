@@ -12,6 +12,7 @@ The UI is responsive and works well on both desktop and mobile devices.
 - 🎛️ Interactive sliders, dropdowns, and number inputs
 - 📱 Mobile-friendly UI
 - 🌐 Hosted online with a shareable link
+- 🌗 Light and Dark mode support
 
 ## 🚀 Live Demo
 
